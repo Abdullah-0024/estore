@@ -42,7 +42,9 @@ footer {
 
 footer .footer-content p {
     font-size: 1rem;
+<<<<<<< HEAD
 }
+=======
 
 /* Hero Section */
 .hero-section {
@@ -223,3 +225,4 @@ main {
 .product-card button:hover {
     background-color: #0056b3;
 }
+>>>>>>> 6cf2f32c1e9b64dce8696867953e9172bfa35c90
