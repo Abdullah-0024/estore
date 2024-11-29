@@ -4,8 +4,10 @@ header {
     color: white;
     padding: 20px 0;
     text-align: center;
+
 }
 
+/* commit */
 header .logo h1 {
     font-size: 2.5rem;
 }
