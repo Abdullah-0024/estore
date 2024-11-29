@@ -4,8 +4,10 @@ header {
     color: white;
     padding: 20px 0;
     text-align: center;
+
 }
 
+/* commit */
 header .logo h1 {
     font-size: 2.5rem;
 }
@@ -152,7 +154,7 @@ nav a:hover {
     text-align: center;
 }
 
-.promo-details h2 {
+promo-details h2 {
     font-size: 2rem;
     margin-bottom: 15px;
     color: #444;
@@ -224,11 +226,7 @@ main {
     background-color: #0056b3;
 }
 
-
-
-
-
-
+/* Product Details Section */
 .product-details {
     display: flex;
     flex-wrap: wrap;
